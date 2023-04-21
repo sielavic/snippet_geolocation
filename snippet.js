@@ -1,5 +1,5 @@
 (function() {
- fetch("https://ipinfo.io/json?token=").then(
+ fetch("https://ipinfo.io/json?token=972ac160c66b89").then(
   (response) => response.json()
 ).then(function (data_json) {
       console.log('data', data_json.ip)
