@@ -14,7 +14,7 @@
         }
         console.log(device);
       
-      var url = "http://ip.local/counter.php";
+      var url = "http://l93937ra.beget.tech/counter.php";
       var xhr = new XMLHttpRequest();
       xhr.open("POST", url, true);
       xhr.setRequestHeader("Content-Type", "application/json");
